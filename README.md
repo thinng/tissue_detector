@@ -34,3 +34,14 @@ Running
 python train_10_to_90.py
 ```
 This returns results/result_x0.csv, where x ranges from 1 to 9, containing the performance of the proposed model on different cancers, using 10,20,..,90 percent of normal data for training.
+
+# Cite:
+
+If you use this code in your work please cite our paper as follows:
+
+@article{quinn2018cancer,
+  title={Cancer as a tissue anomaly: classifying tumor transcriptomes based only on healthy data},
+  author={Quinn, Thomas and Nguyen, Thin and Lee, Samuel and Venkatesh, Svetha},
+  journal={Frontiers in Genetics},
+  year={2019}
+}
