@@ -38,10 +38,11 @@ This returns results/result_x0.csv, where x ranges from 1 to 9, containing the p
 # Cite:
 
 If you use this code in your work please cite our paper as follows:
-
+```sh
 @article{quinn2018cancer,
   title={Cancer as a tissue anomaly: classifying tumor transcriptomes based only on healthy data},
   author={Quinn, Thomas and Nguyen, Thin and Lee, Samuel and Venkatesh, Svetha},
   journal={Frontiers in Genetics},
   year={2019}
 }
+```
